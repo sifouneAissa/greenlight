@@ -293,7 +293,7 @@ fr:
       start: Commencer la recherche...
   landing:
     about: "%{href} est une interface simple pour votre serveur open-source de Web conférence BigBlueButton. Vous pouvez créer vos propres salles pour héberger des sessions ou rejoindre d'autres utilisateurs via un lien court et pratique. "
-    welcome: Bienvenue sur BigBlueButton.
+    welcome: Bienvenue sur la plateforme d'apprentissage à distance Sweedy
     video: Regardez notre tutoriel sur l'utilisation de Greenlight
     upgrade: Montrez-moi comment passer à la version 2.0 !
     version: "Nous avons publié une nouvelle version de Greenlight, mais votre base de données n'est pas compatible."
